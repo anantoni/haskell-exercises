@@ -1,0 +1,1 @@
+In some cases duplicate elements will be removed from the list, in some other cases the sorting function won't work.
